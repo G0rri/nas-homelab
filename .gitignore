@@ -1,0 +1,16 @@
+# Este repositorio es solo documentación.
+# Red de seguridad para no subir nunca secretos, certificados ni copias.
+*.env
+.env*
+*.key
+*.pem
+*.crt
+*.srl
+*.p12
+*.7z
+*.zip
+*.tar
+*.tar.gz
+*.sql
+*.sql.gz
+*.db
